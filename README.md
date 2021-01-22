@@ -30,7 +30,7 @@ Implement a program that can read both files and then:
     where
     * `names_file` - text file with names
     * `matches_file` - text file with matches
-    * `view_file` - optional, name of the Python module to render the output result, provided options are:
+    * `view_file` - optional, name of the player information you want to view, provided options are:
         * `view_players_scores`
         * `generate_player_report`
         * `suggested_next_matches`
